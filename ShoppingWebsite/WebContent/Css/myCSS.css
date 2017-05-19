@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.abc {
+	font: italic 18px Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.navi {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: normal;
+	background-color: #2CCE17;
+}
